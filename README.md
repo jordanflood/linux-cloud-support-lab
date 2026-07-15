@@ -1,3 +1,3 @@
-# Linux Cloud Support Labç
+# Linux Cloud Support Lab
 
 Practical Linux administration, troubleshooting, networking, Bash, and cloud-support labs.
